@@ -16,7 +16,7 @@ In deze lijst vind je:
 - Populaire frontend npm packages
 
 ## Openstaande Frontend Vacatures 💼
-- [Frontend Developer @SocialDeal](https://werk.socialdeal.nl/o/frontend-developer-2-4){:target="_blank"}
+- [Frontend Developer @SocialDeal](https://werk.socialdeal.nl/o/frontend-developer-2-4)
 
 ## Het doel van deze lijst 🚀
 Het doel van deze lijst is om de zichtbaarheid van openstaande frontend vacatures in Nederland te vergroten en frontend developers direct in contact te brengen met bedrijven. We vermijden recruiters en tussenpersonen om de lijst zo overzichtelijk mogelijk te houden.
