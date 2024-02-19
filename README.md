@@ -1,4 +1,4 @@
-# Frontend Vacatures Nederland 🤖
+# Frontend Vacatures Nederland 👨‍💻
 Ben je op zoek naar een frontend developer baan in Nederland?
 
 Op deze pagina vind je een uitgebreide lijst van Nederlandse bedrijven die op dit moment actief frontend developers zoeken. De lijst is met de hand geselecteerd en samengesteld om recruiters en tussenpersonen te vermijden.
